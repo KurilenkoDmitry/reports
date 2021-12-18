@@ -1,0 +1,1 @@
+Add allure-newman files
